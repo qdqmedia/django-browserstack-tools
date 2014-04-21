@@ -25,10 +25,10 @@ Install django-browserstack-tools::
 
     pip install django-browserstack-tools  (Package not ready yet)
 
-Then use it in a project::
+Then use it in a project:
 
 
-.. code-block :: python
+.. code-block:: python
 
     from browserstack_tools.testcases import BrowserStackLiveServerTestCase
 
@@ -47,4 +47,4 @@ Then use it in a project::
 Features
 --------
 
-* TODO
+* Create Selenium Test using BrowserStack in Django
