@@ -18,7 +18,7 @@ Quickstart
 
 Install django-browserstack-tools::
 
-    pip install django-browserstack-tools  (Package not ready yet)
+    pip install django-browserstack-tools
 
 Then use it in a project:
 
