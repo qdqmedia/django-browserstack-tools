@@ -5,6 +5,9 @@ django-browserstack-tools
 .. image:: https://badge.fury.io/py/django-browserstack-tools.png
     :target: https://badge.fury.io/py/django-browserstack-tools
 
+.. image:: https://pypip.in/d/django-browserstack-tools/badge.png
+    :target: https://crate.io/packages/django-browserstack-tools?version=latest
+
 
 Unofficial Browserstack integration for Django
 
