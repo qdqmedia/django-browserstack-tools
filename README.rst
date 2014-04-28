@@ -5,11 +5,6 @@ django-browserstack-tools
 .. image:: https://badge.fury.io/py/django-browserstack-tools.png
     :target: https://badge.fury.io/py/django-browserstack-tools
 
-.. image:: https://travis-ci.org/dnmellen/django-browserstack-tools.png?branch=master
-    :target: https://travis-ci.org/dnmellen/django-browserstack-tools
-
-.. image:: https://coveralls.io/repos/dnmellen/django-browserstack-tools/badge.png?branch=master
-    :target: https://coveralls.io/r/dnmellen/django-browserstack-tools?branch=master
 
 Unofficial Browserstack integration for Django
 
