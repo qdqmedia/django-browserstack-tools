@@ -30,7 +30,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author='QDQ media S.A.U.',
     author_email='tecnologia@qdqmedia.com',
-    url='https://github.com/dnmellen/django-browserstack-tools',
+    url='https://github.com/qdqmedia/django-browserstack-tools',
     packages=[
         'browserstack_tools',
     ],
